@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../ww-activemq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-lucene" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager/ww-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager/ww-manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager/ww-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager/ww-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-manager/ww-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ww-upload" charset="UTF-8" />
+  </component>
+</project>
